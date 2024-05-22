@@ -1,5 +1,13 @@
 # Binary search tree.
 
+![Inserts time](https://github.com/ZadokhinDima/counting_sort_and_BSD/blob/main/inserts.png?raw=true)
+
+
+![Search time](https://github.com/ZadokhinDima/counting_sort_and_BSD/blob/main/searches.png?raw=true)
+
+
+![Delete time](https://github.com/ZadokhinDima/counting_sort_and_BSD/blob/main/deletes.png?raw=true)
+
 From diagrams logariphmic complexity is clearly visible.
 
 # Counting sort.
